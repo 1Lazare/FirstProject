@@ -1409,7 +1409,9 @@ h1 {
 
 .footer__main {
     display:flex;
-    padding-top:45.5px;
+    padding-top:50px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: #FFB342;
     border-bottom: 1.5px solid #4B557D;
 }
